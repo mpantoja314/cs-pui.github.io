@@ -508,3 +508,18 @@ _Excerpt_ The Department of Mathematical and Computational Sciences at The Colle
 
 [Full Job Posting](https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science){: .button-job}
 [_back to all deadlines_](#deadlines)
+
+------------
+
+### California Polytechnic State University
+{: #calpoly}
+
+_Excerpt_ The Computer Science and Software Engineering Department within the College of Engineering at California Polytechnic State University in San Luis Obispo, California (Cal Poly) invites applications for a full-time, tenure-track Computer Science faculty position at the Assistant Professor rank beginning Fall 2024. Qualified candidates with industry experience are encouraged to apply.
+
+Duties include teaching undergraduate and master's level courses, supporting and expanding curricular development in Computer Science and Software Engineering, pursuing research in one's area of expertise, and providing service to the department, the university, and the community. Qualified c andidates with teaching interests in the department areas of need (see “Preferred Qualifications” below) are strongly encouraged to apply.
+
+- Review of applications will begin on **December 18, 2023**
+- San Luis Obispo, CA. USA.
+
+[Full Job Posting]([https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science](https://www.google.com/search?q=calpoly+csse+job&rlz=1C5GCEM_enES1072ES1072&oq=calpoly+csse+job+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINjI0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjIoMiC08aCAxV8BEQIHQbmDBkQkd0GegQIERAB#fpstate=tldetail&htivrt=jobs&htiq=calpoly+csse+job&htidocid=ayK7gNSLlzL3-3GhAAAAAA%3D%3D&sxsrf=AM9HkKkZbcatfpPBgdQQu-VU-vFNyGj0tQ:1700073420500)https://www.google.com/search?q=calpoly+csse+job&rlz=1C5GCEM_enES1072ES1072&oq=calpoly+csse+job+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINjI0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjIoMiC08aCAxV8BEQIHQbmDBkQkd0GegQIERAB#fpstate=tldetail&htivrt=jobs&htiq=calpoly+csse+job&htidocid=ayK7gNSLlzL3-3GhAAAAAA%3D%3D&sxsrf=AM9HkKkZbcatfpPBgdQQu-VU-vFNyGj0tQ:1700073420500){: .button-job}
+[_back to all deadlines_](#deadlines)
